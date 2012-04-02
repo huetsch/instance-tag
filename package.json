@@ -1,0 +1,13 @@
+{
+  "name": "instance-tag",
+  "description": "Rails' InstanceTag ported to Coffeescript",
+  "keywords": ["rails", "instance-tag"],
+  "homepage": "https://github.com/huetsch/instance-tag",
+  "version": "0.0.1",
+  "dependencies": {
+    "cream": ">= 0.0.7"
+  },
+  "main": "./instance_tag.js",
+  "author": "Mark Huetsch <markhuetsch@gmail.com>",
+  "license": "MIT"
+}
