@@ -3,7 +3,7 @@
   "description": "Rails' InstanceTag ported to Coffeescript",
   "keywords": ["rails", "instance-tag"],
   "homepage": "https://github.com/huetsch/instance-tag",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "dependencies": {
     "cream": ">= 0.0.7"
   },

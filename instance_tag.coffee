@@ -43,4 +43,4 @@ class InstanceTag
     else
       throw new ArgumentError("object[] naming but object param and @object var don't exist or don't respond to to_param: #{object.inspect}")
 
-exports.InstanceTag = InstanceTag
+module.exports = InstanceTag

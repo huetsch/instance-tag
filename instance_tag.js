@@ -64,6 +64,6 @@
 
   })();
 
-  exports.InstanceTag = InstanceTag;
+  module.exports = InstanceTag;
 
 }).call(this);
